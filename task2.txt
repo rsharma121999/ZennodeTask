@@ -1,0 +1,16 @@
+Why do you like to join as a Software developer?
+->Because I like to develop and learn new tech stacks and since all the things are depend on technology.
+List top 3 softwares / tools that inspire you. Why do these tools inspire you?
+->Docker - because any application can be easily stored and used anywhere.
+->MongoDB - why to store data in the database which slow and is less efficient to regular change. MongoDB plays an important role in fast retrival of data without match efforts.
+->Git - Enabled developer to make development faster and deployment of the code and other things easy.
+List top 3 organisations you like to join in your career & why you like these organisations.
+->Microsoft - because they have one best innovations and R&D.
+->BlackRock - Because most of the investor in best tech companies and startups.
+->Goldman Sachs- Best Finance company.
+How you position yourself in this industry after 2 years.
+->As a SDE 2
+List 3 projects / products you have built or have planned to build in the upcoming year, also explain your role in the same.
+->Cirrus Application- an tool which is used to transfer data in the form of parquet from on prem to cloud or the frontend team.
+->Report Service - An application which helps in gathering and storing data of the people with specific details on the cloud and oracledb.
+->CSV to DB converter- an application that helps in converting the csv data into respect ORM model data and storing the data in the SQL databse.
